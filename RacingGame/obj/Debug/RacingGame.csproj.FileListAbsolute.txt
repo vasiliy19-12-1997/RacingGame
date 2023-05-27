@@ -1,0 +1,11 @@
+C:\Users\Администратор.DESKTOP-86LD454\source\repos\RacingGame\RacingGame\bin\Debug\RacingGame.exe.config
+C:\Users\Администратор.DESKTOP-86LD454\source\repos\RacingGame\RacingGame\bin\Debug\RacingGame.exe
+C:\Users\Администратор.DESKTOP-86LD454\source\repos\RacingGame\RacingGame\bin\Debug\RacingGame.pdb
+C:\Users\Администратор.DESKTOP-86LD454\source\repos\RacingGame\RacingGame\obj\Debug\RacingGame.csproj.AssemblyReference.cache
+C:\Users\Администратор.DESKTOP-86LD454\source\repos\RacingGame\RacingGame\obj\Debug\RacingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Администратор.DESKTOP-86LD454\source\repos\RacingGame\RacingGame\obj\Debug\RacingGame.Form1.resources
+C:\Users\Администратор.DESKTOP-86LD454\source\repos\RacingGame\RacingGame\obj\Debug\RacingGame.Properties.Resources.resources
+C:\Users\Администратор.DESKTOP-86LD454\source\repos\RacingGame\RacingGame\obj\Debug\RacingGame.csproj.GenerateResource.cache
+C:\Users\Администратор.DESKTOP-86LD454\source\repos\RacingGame\RacingGame\obj\Debug\RacingGame.csproj.CoreCompileInputs.cache
+C:\Users\Администратор.DESKTOP-86LD454\source\repos\RacingGame\RacingGame\obj\Debug\RacingGame.exe
+C:\Users\Администратор.DESKTOP-86LD454\source\repos\RacingGame\RacingGame\obj\Debug\RacingGame.pdb
